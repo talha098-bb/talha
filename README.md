@@ -1,2 +1,2 @@
 # talha
-this is my first github account
+this is my first github repository
